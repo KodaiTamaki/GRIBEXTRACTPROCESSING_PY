@@ -2,7 +2,7 @@
 GRIBEXTRACTPROCESSING_PYは,気象庁の数値予報モデルデータ(GSM,MSM)をダウンロード,抽出するパッケージです.
 
 # デモ
-Pythonライブラリ"GDAL"を用いることで、Windows環境下でGRIB2形式のデータを取得することができます.
+Pythonライブラリ"GDAL"を用いることで、<span style="color: red; ">Windows環境下</span>でGRIB2形式のデータを取得することができます.
 
 # 参考
 気象庁の数値予報モデルデータは,["京都大学生存圏研究所"](http://database.rish.kyoto-u.ac.jp/arch/jmadata/)から取得しています.
